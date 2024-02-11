@@ -15,7 +15,7 @@ The wrangling process involved filtering the data to focus specifically on car c
 4) Creative Chinese New Year Theme: A creatively themed tile set centered around Chinese New Year, adding a distinctive and celebratory touch to the mapping project.![tile 4](/img/tile4.png)
 
 ## Interactive tile map map below
-Link to Interactice map:
+Link to Interactice map: [index.html](https://raw.githack.com/lesther-dumos/Map-Design-and-Tile-Generation/main/index.html)
 
 
 
