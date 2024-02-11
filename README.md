@@ -6,7 +6,7 @@ This repository focuses on Map Design and Tile Generation using QGIS, with data 
 ## Data Collection & Wrangling
 The dataset for this project was sourced from [Seattle City GIS - SDOT Collisions (All Years)](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::sdot-collisions-all-years-2/about). Initially, the dataset contained information on collisions spanning all years, providing a comprehensive overview. However, due to the substantial size of the original dataset, a data wrangling process was implemented using Python.
 
-The wrangling process involved filtering the data to focus specifically on car collisions that occurred in January 2024. This refined dataset includes essential information such as longitude, latitude, and additional relevant details. By narrowing down the scope to a specific timeframe, the dataset becomes more manageable and targeted, facilitating a more precise exploration and representation of car collisions within the selected geographical area.
+The [wrangling process](/data_wrangling.ipynb) involved filtering the data to focus specifically on car collisions that occurred in January 2024. This refined dataset includes essential information such as [longitude, latitude, and additional relevant details](/filtered_data_2024_v2.csv). By narrowing down the scope to a specific timeframe, the dataset becomes more manageable and targeted, facilitating a more precise exploration and representation of car collisions within the selected geographical area.
 
 ## Tile Sets Description
 1)  Custom Mapbox Design: A unique map crafted in Mapbox, transformed into tiles using QGIS.![tile 1](./img/tile1.png)
