@@ -9,13 +9,26 @@ The dataset for this project was sourced from [Seattle City GIS - SDOT Collision
 The [wrangling process](/data_wrangling.ipynb) involved filtering the data to focus specifically on car collisions that occurred in January 2024. This refined dataset includes essential information such as [longitude, latitude, and additional relevant details](/filtered_data_2024_v2.csv). By narrowing down the scope to a specific timeframe, the dataset becomes more manageable and targeted, facilitating a more precise exploration and representation of car collisions within the selected geographical area.
 
 ## Tile Sets Description
-1)  Custom Mapbox Design: A unique map crafted in Mapbox, transformed into tiles using QGIS.![tile 1](./img/tile1.png)
-2) Collision Data Tile Map: Tiles depicting collision data points within Seattle, providing insight into the spatial distribution of incidents.![tile 2](/img/tile2.png)
-3) Integrated Custom Map and Collision Data: Overlay of collision data points onto the custom Mapbox design, showcasing the intersection of the two datasets.![tile 3](/img/tile3.png)
-4) Creative Chinese New Year Theme: A creatively themed tile set centered around Chinese New Year, adding a distinctive and celebratory touch to the mapping project.![tile 4](/img/tile4.png)
+1)  Custom Mapbox Design: A unique map crafted in Mapbox, transformed into tiles using QGIS.
+
+![tile 1](./img/tile1.png)
+
+2) Collision Data Tile Map: Tiles depicting collision data points within Seattle, providing insight into the spatial distribution of incidents.
+
+![tile 2](/img/tile2.png)
+
+3) Integrated Custom Map and Collision Data: Overlay of collision data points onto the custom Mapbox design, showcasing the intersection of the two datasets.
+
+![tile 3](/img/tile3.png)
+
+4) Creative Chinese New Year Theme: A creatively themed tile set centered around Chinese New Year, adding a distinctive and celebratory touch to the mapping project.
+
+![tile 4](/img/tile4.png)
 
 ## Interactive tile map map below
-Link to Interactice map: [index.html](https://raw.githack.com/lesther-dumos/Map-Design-and-Tile-Generation/main/index.html)
+Link to Interactice map: 
+
+[index.html](https://raw.githack.com/lesther-dumos/Map-Design-and-Tile-Generation/main/index.html)
 
 
 
